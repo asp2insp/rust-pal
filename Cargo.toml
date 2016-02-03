@@ -1,0 +1,6 @@
+[package]
+name = "pool-alloc"
+version = "0.1.0"
+authors = ["Josiah Gaskin <josiah@optimizely.com>"]
+
+[dependencies]
